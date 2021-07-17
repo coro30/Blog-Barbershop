@@ -1,0 +1,25 @@
+.header {
+    background-color: white;
+    background-image: url("../img/post-image.jpg");
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    height: 900px;
+    width: 100%;
+    text-align: center
+}
+
+.header__titulo {
+    color: white;
+    font-family: $playfair;
+    font-weight: $gruesa;
+    font-style: $cursiva;
+    padding-top: 350px;
+    font-size: $xx-large;
+    
+}
+
+.header__flechas {
+   position: absolute;
+   top: 80%;
+}

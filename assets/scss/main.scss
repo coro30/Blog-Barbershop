@@ -1,0 +1,27 @@
+//abstracts
+@import "abstracts/variables";
+
+//vendor
+@import "vendor/bootstrap4.6/bootstrap.scss";
+
+//base
+@import "base/header";
+@import "base/tipography";
+
+//components
+@import "components/pagination";
+
+//layout
+@import "layout/footer";
+@import "layout/articulo";
+
+//pages
+@import "pages/index";
+@import "pages/_contacto.scss"
+
+
+//themes
+
+
+
+

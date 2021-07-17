@@ -1,0 +1,31 @@
+.contacto {
+    box-sizing: border-box;
+    // height: 500px;
+    // padding-top: 80px;
+    border: 1px solid $Platinum;
+}
+
+
+.contacto__nombre {
+    margin-top: 40px;
+    font-family: $playfair;
+    font-weight: $gruesa;
+    font-style: italic;
+    font-size: $x-large;
+    padding-left: 30px;
+}
+.contacto__web {
+    font-family: $roboto;
+    font-weight: $regular;
+    font-size: $x-large;
+    padding-left: 30px;
+    color: $Spanish-pink;
+}
+
+.contacto__mensaje {
+    text-align: justify;
+    font-family: $roboto;
+    font-size: large;
+    color: $Nickel;
+    padding-top: 60px;
+}
